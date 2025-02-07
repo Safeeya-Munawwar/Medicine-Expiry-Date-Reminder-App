@@ -35,4 +35,4 @@ Download the Medicine Expiry Date Reminder App today and streamline your medicat
 
 ## Author
 **Shafiya Munawwar**  
-[GitHub Profile](https://github.com/shafiya-munawwar0036)
+[GitHub Profile](https://github.com/Safeeya-Munawwar)
