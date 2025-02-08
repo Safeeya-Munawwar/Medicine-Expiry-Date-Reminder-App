@@ -34,5 +34,5 @@ Get Started: [Medicine Expiry Date Reminder App](https://Safeeya-Munawwar.github
 Download the Medicine Expiry Date Reminder App today and streamline your medication management process, ensuring safety and efficiency in handling your health supplies!
 
 ## Author
-**Shafiya Munawwar**  
+**Safeeya Munawwar**  
 [GitHub Profile](https://github.com/Safeeya-Munawwar)
